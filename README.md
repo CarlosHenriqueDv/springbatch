@@ -11,5 +11,5 @@ Foi utilizado o [Spring Initializr](https://start.spring.io/) para criar o proje
 e selecionadas as dependências abaixo.
 1. **Spring Batch**
 2. **HyperSQL Database**
-
+3. **Maven** para build de projeto
 
